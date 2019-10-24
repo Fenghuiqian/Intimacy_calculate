@@ -1,7 +1,7 @@
 # Intimacy_calculate
 一个亲密度计算的记录
 ## 数据特征
-测试样本数据为用户呼叫数据。
+测试样本数据为用户呼叫数据。  
 source_data.phoneNumber  主叫号码  
 source_data.toPhoneNumber 被叫号码  
 source_data.duation  通话时间  
